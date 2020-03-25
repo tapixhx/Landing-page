@@ -60,3 +60,60 @@
     100% { fill: transparent; fill-opacity: 1; }
 }
 /* svg anime */
+
+/* media query */
+@media only screen and (max-width:1440px) {
+    .anime_box {
+        margin-left:22.5rem;
+        margin-top:-14rem;
+    }
+}
+@media only screen and (max-width:1240px) {
+    .anime_box {
+        margin-left:10rem;
+    }
+}
+@media only screen and (max-width:768px) {
+    .main {
+        padding:10rem 0 0 0;
+    }
+    .anime_box {
+        width:38rem;
+        margin-left:5rem;
+        margin-top:-13rem;
+    }
+    .legacy_text {
+        font-size:2rem;
+    }
+    .shop_text {
+        font-size:1.6rem;
+    }
+}
+@media only screen and (max-width:455px) {
+    .anime_box {
+        display:none;
+    }
+    .legacy_text {
+        font-size:1.8rem;
+    }
+    .shop_text {
+        font-size:1.4rem;
+    }
+}
+@media only screen and (max-width:425px) {
+    
+}
+@media only screen and (max-width:375px) {
+    .shop_text {
+        font-size:1.2rem;
+    }
+}
+@media only screen and (max-width:320px) {
+    .legacy_text {
+        font-size:1.6rem;
+    }
+    .shop_text {
+        font-size:1.2rem;
+    }
+}
+/* media query */
