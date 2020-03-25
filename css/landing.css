@@ -11,7 +11,11 @@
     background: url(../img/back.png);
     height:100vh;
     width:100%;
+    padding:8rem 0 0 0;
+}
 
+.one-stop {
+    padding:0 0rem;
 }
 
 /* svg anime */
@@ -23,7 +27,7 @@
 }
 
 .text-line text {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Gabriela', serif;
     font-weight: normal;
     font-style: normal;
 }
@@ -35,7 +39,7 @@
 }
 
 @keyframes filling {
-    0%, 90% { fill: #bac736; fill-opacity: 0; }
-    100% { fill: #bac736; fill-opacity: 1; }
+    0%, 90% { fill: transparent; fill-opacity: 0; }
+    100% { fill: transparent; fill-opacity: 1; }
 }
 /* svg anime */
