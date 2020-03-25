@@ -11,18 +11,35 @@
     background: url(../img/back.png);
     height:100vh;
     width:100%;
-    padding:8rem 0 0 0;
+    padding:16rem 0 0 0;
+}
+.anime_box {
+    margin-left:26rem;
+    margin-top:-13rem;
+}
+.legacy_text {
+    color:#fff;
+    font-family: 'Gabriela', serif;
+    font-size:2.4rem;
+    animation:display 8s;
+}
+.shop_text {
+    color:#fff;
+    font-family: 'Gabriela', serif;
+    font-size:1.8rem;
+    animation:display 8s;
 }
 
-.one-stop {
-    padding:0 0rem;
+@keyframes display {
+    0%{opacity:0;}
+    100%{opacity:1;}
 }
 
 /* svg anime */
 .text-line {
     stroke-dasharray: 500;
     stroke-dashoffset: 500;
-    animation: dash 5s linear forwards, filling 5s ease-in forwards;
+    animation: dash 3s linear forwards, filling 5s ease-in forwards;
     font-size: 80px;
 }
 
