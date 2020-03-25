@@ -1,0 +1,41 @@
+* {
+    margin:0;
+    padding:0;
+}
+.line {
+    stroke: #000000;
+    stroke-width: 3;
+}  
+
+.main {
+    background: url(../img/back.png);
+    height:100vh;
+    width:100%;
+
+}
+
+/* svg anime */
+.text-line {
+    stroke-dasharray: 500;
+    stroke-dashoffset: 500;
+    animation: dash 5s linear forwards, filling 5s ease-in forwards;
+    font-size: 80px;
+}
+
+.text-line text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes filling {
+    0%, 90% { fill: #bac736; fill-opacity: 0; }
+    100% { fill: #bac736; fill-opacity: 1; }
+}
+/* svg anime */

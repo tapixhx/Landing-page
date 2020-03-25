@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="366" height="356" viewBox="0 0 366 356">
+  <g id="Group_1" data-name="Group 1" transform="translate(-444 -640)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(444 640)" fill="#fff" stroke="#707070" stroke-width="15">
+      <rect width="366" height="356" rx="35" stroke="none"/>
+      <rect x="7.5" y="7.5" width="351" height="341" rx="27.5" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 720.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-2" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 743.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-3" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 766.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-4" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 789.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-5" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 812.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-6" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 835.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <line id="Line_1-7" data-name="Line 1" x2="220" y2="1" transform="translate(517.5 858.5)" fill="none" stroke="#707070" stroke-width="10"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(506 892)" fill="#fff" stroke="#707070" stroke-width="10">
+      <circle cx="35.5" cy="35.5" r="35.5" stroke="none"/>
+      <circle cx="35.5" cy="35.5" r="30.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(678 892)" fill="#fff" stroke="#a0a0a0" stroke-width="10">
+      <circle cx="35.5" cy="35.5" r="35.5" stroke="none"/>
+      <circle cx="35.5" cy="35.5" r="30.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(592 892)" fill="#fff" stroke="#707070" stroke-width="10">
+      <circle cx="35.5" cy="35.5" r="35.5" stroke="none"/>
+      <circle cx="35.5" cy="35.5" r="30.5" fill="none"/>
+    </g>
+  </g>
+</svg>
