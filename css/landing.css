@@ -11,7 +11,7 @@
     background: url(../img/back.png);
     height:100vh;
     width:100%;
-    padding:16rem 0 0 0;
+    padding:8rem 0 0 0;
 }
 .anime_box {
     margin-left:26rem;
@@ -21,13 +21,17 @@
     color:#fff;
     font-family: 'Gabriela', serif;
     font-size:2.4rem;
-    animation:display 8s;
+    animation:display 4s;
 }
 .shop_text {
     color:#fff;
     font-family: 'Gabriela', serif;
     font-size:1.8rem;
-    animation:display 8s;
+    animation:display 4s;
+}
+.illustration {
+    animation:display 4s;
+    width:25rem;
 }
 
 @keyframes display {
@@ -98,6 +102,9 @@
     }
     .shop_text {
         font-size:1.4rem;
+    }
+    .illustration {
+        width:15rem;
     }
 }
 @media only screen and (max-width:425px) {
